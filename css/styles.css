@@ -1,0 +1,7 @@
+body {
+    background-image: url(../images/bg-desktop.png);
+    background-color: aliceblue;
+    height: 100vh;
+    background-position: inherit;
+    background-size:cover;
+  }
